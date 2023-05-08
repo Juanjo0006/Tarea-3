@@ -1,0 +1,39 @@
+La suma de 2 es : 2
+La resta de 3y1es2
+La resta de 4 y 2 es 2
+La suma de 2es : 0
+La suma de 2es : 4
+La multiplicación de 3es : 1
+La multiplicación de 1es : 1
+La multiplicación de 2es : 4
+La division de 4 y 2 es 2.0
+El factorial de 5es : 120
+La potencia de 2 y 3 es 8
+La suma de 2es : 4
+La suma de 2es : 6
+La resta de 2 y 1 es 1
+La multiplicación de 2es : 4
+El resultado de la multiplicación es6
+El resultado de la multiplicación es: 1
+La division de 3 y 3 es 1.0
+El factorial de 5es : 120
+El factorial de 5es : 120
+El factorial de 5es : 120
+El factorial de 5es : 120
+La suma de 2es : 2
+La resta de 3 y 3 es 0
+La suma de 2es : 2
+La resta de 2 y 2 es 0
+La resta de 2 y 2 es 0
+La resta de 2 y 2 es 0
+El resultado de la multiplicación es: 27
+El resultado de la multiplicación es: 4
+La division de 3 y 2 es 1.5
+El factorial de 3es : 6
+La potencia da como resultado: 27
+La resta de 2 y 2 es 0
+La potencia da como resultado: 27
+La potencia da como resultado: 27
+La potencia da como resultado: 27
+La suma de 2es : 4
+La resta de 2 y 2 es 0
